@@ -1,2 +1,2 @@
-# Tasks-java-3rd-semestr-
+# Pract Java Mira
 МИРЭА Практические работы по Java 3 семестр 1 - 10 Хворостин Н.Р.
